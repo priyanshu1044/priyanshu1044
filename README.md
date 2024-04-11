@@ -84,15 +84,6 @@
 
 <br clear="both">
 
-
-<h2 align="left"> Watch snake eating my github contributions 🐍
-</h2>
-
-###
-
-
-<img src="https://github.com/priyanshu1044/priyanshu1044/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
