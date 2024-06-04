@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left"><br>- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently learning NextJS<br>- ⚡ In my free time I Learn about Spring boot<br>- ✨ Creating bugs since 2020<br>- 🎯 Goals: Explore more and more Documents<br>- 🎲 Fun fact: You tell me!!</p>
+<p align="left"><br>- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently learning NextJS(HONO)<br>- ⚡ In my free time I Learn about Spring boot<br>- ✨ Creating bugs since 2020<br>- 🎯 Goals: Explore more and more Documents<br>- 🎲 Fun fact: You tell me!!</p>
 
 ###
 
