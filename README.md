@@ -1,4 +1,4 @@
-###
+<!-- ###
 <h1 align="left">Hey 👋</h1>
 
 ###
@@ -9,10 +9,8 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
-<p align="left">- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently learning NextJS (HONO)<br>- ⚡ In my free time I Learn about Spring boot<br>- ✨ Creating bugs since 2020<br>- 🎯 Goals: Explore more and more Documents<br>- 🎲 Fun fact: You tell me!!</p>
-
+<p align="left">- 🔭 I’m working as Full-Stack Developer<br>- 📚 I'm currently learning NextJS (HONO)<br>- ⚡ In my free time I Learn about Spring boot<br>- ✨ Creating bugs since 2020<br>- 🎯 Goals: Explore more and more Documents<br>- 🎲 Fun fact: You tell me!!</p> -->
 ###
-
 <h2 align="left">🛠 Language and tools</h2>
 
 ###
@@ -107,15 +105,15 @@
 ###
 
 
-
+<!-- 
 ###
 <div align = "left">
 <h2>📊 Github Stats</h2>
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyanshu1044&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-<!-- <div>
+<div>
     <img src="https://github-readme-stats.vercel.app/api?username=priyanshu1044&show_icons=true&theme=transparent" />
-</div> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu1044&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu1044&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div> -->
